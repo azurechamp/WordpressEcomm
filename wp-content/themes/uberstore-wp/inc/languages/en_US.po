@@ -1,0 +1,2089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 'uberstore'\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-14 17:25-0500\n"
+"PO-Revision-Date: 2016-06-14 17:26-0500\n"
+"Last-Translator: Ant Ekşiler <anteksiler@gmail.com>\n"
+"Language-Team: Fuel Themes <support@fuelthemes.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: 404.php:9
+msgid "We are sorry, <br> but the page you're <br> looking for cannot<br> be found."
+msgstr ""
+
+#: 404.php:11
+msgid "You might try searching our site or visit the <strong><a href=\""
+msgstr ""
+
+#: 404.php:13
+msgid "Follow UberStore"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments (0)"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments (1)"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:50
+msgid "Name <span>*</span>"
+msgstr ""
+
+#: comments.php:52
+msgid "Email <span>*</span>"
+msgstr ""
+
+#: comments.php:54
+msgid "Website"
+msgstr ""
+
+#: comments.php:56
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:58
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account"
+"\">Log out?</a>"
+msgstr ""
+
+#: comments.php:62
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333 inc/plugins.php:57
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334 inc/plugins.php:58
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335 inc/plugins.php:59
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336 inc/plugins.php:60
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397 inc/plugins.php:71
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399 inc/class-tgm-plugin-activation.php:3029
+#: inc/plugins.php:72
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2438 inc/visualcomposer-extend.php:798
+#: inc/visualcomposer-extend.php:1126
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2443 woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/header/style1.php:16 inc/header/style2.php:34 inc/header/style2.php:84
+#: inc/header/style3.php:16 inc/woocommerce.php:8 inc/woocommerce.php:23
+#: inc/woocommerce.php:40
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/header/style1.php:38 inc/header/style2.php:41 inc/woocommerce.php:75
+#: woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr ""
+
+#: inc/header/style1.php:43 inc/header/style2.php:46 inc/header/style3.php:43
+msgid "Wishlist"
+msgstr ""
+
+#: inc/header/style1.php:50 inc/header/style2.php:53 woocommerce/checkout/thankyou.php:40
+msgid "My Account"
+msgstr ""
+
+#: inc/header/style1.php:53 inc/header/style2.php:56
+#: woocommerce/checkout/form-login-checkout.php:28 woocommerce/myaccount/form-login.php:50
+msgid "Login"
+msgstr ""
+
+#: inc/header/style2.php:61 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: inc/header/style3.php:33
+msgid "<i class=\"fa fa-search\"></i>"
+msgstr ""
+
+#: inc/header/style3.php:38
+msgid "<i class=\"fa fa-user\"></i>"
+msgstr ""
+
+#: inc/loop/style1.php:31 inc/loop/style2.php:29 search.php:23
+#: woocommerce/loop/pagination.php:30
+msgid "PREV"
+msgstr ""
+
+#: inc/loop/style1.php:32 inc/loop/style2.php:30 search.php:24
+#: woocommerce/loop/pagination.php:31
+msgid "NEXT"
+msgstr ""
+
+#: inc/loop/style1.php:35 inc/loop/style2.php:34
+msgid "Please add posts from your WordPress admin page."
+msgstr ""
+
+#: inc/misc.php:681
+msgid "Product added to wishlist."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:164
+#, php-format
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:186
+#, php-format
+msgid "An error occurred while fetching %s%s%s file from the server!%sReason: %s - %s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:226
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:270
+#, php-format
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:305
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file from path: %s"
+"%s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:329
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin needs it in "
+"order to save the demo import xml file to the upload directory of your site. You can "
+"change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:353
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your server (could not "
+"retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:361
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:432
+#, php-format
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:468
+msgid ""
+"Please upload XML file for content import. If you want to import widgets only, please use "
+"Widget Importer & Exporter plugin."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:488
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:507
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:517
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:535
+#, php-format
+msgid "MAX EXECUTION TIME = %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-helpers.php:539
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer "
+"file = %5$s%1$sTheme Options file = %6$s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:232
+msgid "Imported"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/class-ocdi-widget-importer.php:242
+msgid "No Title"
+msgstr ""
+
+#: inc/one-click-demo-import/one-click-demo-import.php:338
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/one-click-demo-import/one-click-demo-import.php:395
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please check your page "
+"and make sure that everything has imported correctly. If it did, you can deactivate the "
+"%3$sOne Click Demo Import%4$s plugin, because it has done its job.%5$s"
+msgstr ""
+
+#: inc/one-click-demo-import/one-click-demo-import.php:406
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore details "
+"about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/one-click-demo-import/one-click-demo-import.php:593
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:166
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:282
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may not be "
+"supported. Please consider updating."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:753
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:763
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:842
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:856
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:888
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1701
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:893
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1038
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1516
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1537
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1541
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1677
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1706
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1758
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1771
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1776
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1782
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1803
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1817
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1822
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1837
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1842
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1868
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1879
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1924
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1929
+#, php-format
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1952
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1956
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1971
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1975
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1992
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/ot-radioimages.php:10
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/ot-radioimages.php:15
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/ot-radioimages.php:24 inc/visualcomposer-extend.php:547
+#: inc/visualcomposer-extend.php:638 inc/visualcomposer-extend.php:724
+msgid "Four Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:29 inc/visualcomposer-extend.php:548
+#: inc/visualcomposer-extend.php:639 inc/visualcomposer-extend.php:725
+msgid "Three Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:34 inc/visualcomposer-extend.php:549
+#: inc/visualcomposer-extend.php:640 inc/visualcomposer-extend.php:726
+msgid "Two Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:39
+msgid "Double Left Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:44
+msgid "Double Right Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:49
+msgid "Five Columns"
+msgstr ""
+
+#: inc/ot-radioimages.php:72
+msgid "<a href=\"http://fuelthemes.net\">Fuel Themes</a>"
+msgstr ""
+
+#: inc/ot-radioimages.php:78
+msgid "Send to Theme Options"
+msgstr ""
+
+#: inc/ot-themeoptions.php:694
+msgid "Choose One"
+msgstr ""
+
+#: inc/ot-themeoptions.php:699
+msgid "No Sliders Found"
+msgstr ""
+
+#: inc/ot-themeoptions.php:703
+msgid "Sorry! Revolution Slider is not Installed or Activated"
+msgstr ""
+
+#: inc/plugins.php:73
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/postformats/gallery.php:22
+msgid "+"
+msgstr ""
+
+#: inc/postformats/image.php:12 woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr ""
+
+#: inc/postformats/post-prevnext.php:48
+msgid "Previous Article"
+msgstr ""
+
+#: inc/postformats/post-prevnext.php:58
+msgid "Next Article"
+msgstr ""
+
+#: inc/subscribe_save.php:30
+msgid "<strong>Oh snap!</strong> That email address is already subscribed!"
+msgstr ""
+
+#: inc/subscribe_save.php:55
+msgid "<strong>Well done!</strong> Your address has been added"
+msgstr ""
+
+#: inc/subscribe_save.php:63
+msgid "<strong>Oh snap!</strong> Please enter a valid email address"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:67
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:97
+msgid "Remove Tab"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:67
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:97
+msgid "Add Tab"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:80
+msgid "Remove List Item"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:80
+msgid "Add List Item"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:109
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:134
+msgid "Upload"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:110
+#: inc/tinymce/shortcode_generator/shortcode-attributes.php:135
+msgid "Remove Upload"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-generator.php:24
+msgid "Choose a shortcode"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcode-generator.php:66
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:9
+msgid "Elements"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:13
+msgid "Small Title"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:23
+msgid "Large Title"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:31
+msgid "Center?"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:38
+#: inc/visualcomposer-extend.php:262
+msgid "Button"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:42
+msgid "Size"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:51
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:127
+#: inc/visualcomposer-extend.php:827 inc/visualcomposer-extend.php:1074
+msgid "Color"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:67
+#: inc/visualcomposer-extend.php:341 inc/visualcomposer-extend.php:763
+#: inc/visualcomposer-extend.php:860
+msgid "Animation"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:80
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:161
+#: inc/visualcomposer-extend.php:287 inc/visualcomposer-extend.php:454
+#: inc/visualcomposer-extend.php:743 inc/visualcomposer-extend.php:815
+#: inc/visualcomposer-extend.php:1062
+msgid "Icon"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:84
+msgid "Buton Text"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:88
+msgid "Buton Link"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:92
+msgid "Open in new window?"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:99
+msgid "Quotes"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:103
+msgid "Alignment"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:112
+#: inc/visualcomposer-extend.php:851 inc/visualcomposer-extend.php:886
+#: inc/visualcomposer-extend.php:995 inc/visualcomposer-extend.php:1140
+#: inc/visualcomposer-extend.php:1291
+msgid "Content"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:123
+msgid "Tags"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:139
+msgid "Text"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:145
+msgid "Dropcap"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:149
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:176
+msgid "Boxed?"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:157
+msgid "Single Icon"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:166
+msgid "Icon Size"
+msgstr ""
+
+#: inc/tinymce/shortcode_generator/shortcodes-definitions.php:181
+msgid "Icon Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:271
+msgid "Caption"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:280
+msgid "Link URL"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:294 inc/visualcomposer-extend.php:461
+#: inc/visualcomposer-extend.php:750 inc/visualcomposer-extend.php:822
+#: inc/visualcomposer-extend.php:1069
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:299
+msgid "Open link in"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:310
+msgid "Style"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:322 inc/visualcomposer-extend.php:949
+msgid "Button color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:433
+msgid "Styled Header"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:441 inc/visualcomposer-extend.php:567
+#: inc/visualcomposer-extend.php:1213
+msgid "Title"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:444
+msgid "Title of the header"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:448
+msgid "Sub-Title"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:450
+msgid "Sub - Title of the header. It's actually above the title."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:466
+msgid "Use image instead of icon?"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:471
+msgid "20px width is recommended (40px) for retina."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:476
+msgid "Select Image"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:486
+msgid "Products"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:494 inc/visualcomposer-extend.php:575
+#: inc/visualcomposer-extend.php:1014
+msgid "Product Sort"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:497 inc/visualcomposer-extend.php:578
+#: inc/visualcomposer-extend.php:1017
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:498 inc/visualcomposer-extend.php:580
+#: inc/visualcomposer-extend.php:1018
+msgid "Latest Products"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:499 inc/visualcomposer-extend.php:579
+msgid "Featured Products"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:500
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:501 inc/visualcomposer-extend.php:582
+#: inc/visualcomposer-extend.php:1020
+msgid "Sale Products"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:502 inc/visualcomposer-extend.php:1021
+msgid "By Category"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:503 inc/visualcomposer-extend.php:583
+#: inc/visualcomposer-extend.php:1022
+msgid "By Product ID"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:505 inc/visualcomposer-extend.php:512
+#: inc/visualcomposer-extend.php:586 inc/visualcomposer-extend.php:982
+#: inc/visualcomposer-extend.php:1025 inc/visualcomposer-extend.php:1032
+msgid "Select the order of the products you'd like to show."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:509 inc/visualcomposer-extend.php:617
+#: inc/visualcomposer-extend.php:979 inc/visualcomposer-extend.php:1029
+msgid "Product Category"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:517 inc/visualcomposer-extend.php:590
+#: inc/visualcomposer-extend.php:1037
+msgid "Product IDs"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:519 inc/visualcomposer-extend.php:592
+#: inc/visualcomposer-extend.php:1039
+msgid "Enter the products IDs you would like to display seperated by comma"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:524 inc/visualcomposer-extend.php:624
+#: inc/visualcomposer-extend.php:657
+msgid "Carousel"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:530 inc/visualcomposer-extend.php:663
+msgid "Select yes to display the products in a carousel."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:535 inc/visualcomposer-extend.php:598
+#: inc/visualcomposer-extend.php:987 inc/visualcomposer-extend.php:1045
+msgid "Number of items"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:538 inc/visualcomposer-extend.php:601
+#: inc/visualcomposer-extend.php:990 inc/visualcomposer-extend.php:1048
+msgid "The number of products to show."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:543 inc/visualcomposer-extend.php:634
+#: inc/visualcomposer-extend.php:720
+msgid "Columns"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:551 inc/visualcomposer-extend.php:642
+msgid "Select the layout of the products."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:558
+msgid "Product List"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:571
+msgid "Title of the widget"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:581 inc/visualcomposer-extend.php:1019
+msgid "Top Rated"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:609
+msgid "Product Categories"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:620
+msgid "Select the categories you would like to display"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:630
+msgid "Select yes to display the categories in a carousel."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:649
+msgid "Posts"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:728
+msgid "Select the layout of the posts."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:735
+msgid "Icon List"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:755
+msgid "Icon color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:779
+msgid "List Items"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:783
+msgid "Every new line will be treated as a list item"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:789
+msgid "Iconbox"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:830 inc/visualcomposer-extend.php:1077
+msgid "Leave empty to use default color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:835 inc/visualcomposer-extend.php:1082
+msgid "Image"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:837
+msgid ""
+"Use image instead of icon? Image uploaded should be 130*130 or 260*260 for retina. For "
+"small icons, 78*78 or 156*156 for retina."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:843 inc/visualcomposer-extend.php:1105
+msgid "Heading"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:876
+msgid "Add Button?"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:881
+msgid "Check if you want to add a button."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:896
+msgid "Button Caption"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:906
+msgid "Button Link URL"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:915
+msgid "Button Icon"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:924
+msgid "Button Open link in"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:936
+msgid "Button Style"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:971
+msgid "Look Book"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:999
+msgid "Enter a starting content to be displayed before lookbook products."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1006
+msgid "Product Grid"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1054
+msgid "Counter"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1084
+msgid "Use image instead of icon? Image uploaded should be 70*70 or 140*140 for retina."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1089
+msgid "Number to count to"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1097
+msgid "Speed of the counter animation"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1100
+msgid "Speed of the counter animation, default 1500"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1117
+msgid "Notification"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1151
+msgid "Banner"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1160
+msgid "Background Color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1163
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1168
+msgid "Select Background Image"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1174
+msgid "Banner Height"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1176
+msgid "Enter height of the banner in px."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1180
+msgid "Padding"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1182
+msgid ""
+"Enter padding value of the content. <small>This does not affect border offset values, "
+"only the content.</small>"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1188
+msgid "Banner Type"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1202
+msgid "Border Color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1205
+msgid "Select Border Color if the banner type supports it"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1222
+msgid "Sub Title"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1231
+msgid "Button Text"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1240
+msgid "Button Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1249
+msgid "Overlay Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1259
+msgid "Enable parallax"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1268
+msgid "Parallax Speed"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1275
+msgid "A value between 0 and 10 is recommended. Lower is faster"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1279
+msgid "Text alignment"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1281
+msgid "Align center"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1281
+msgid "Align left"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1281
+msgid "Align right"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1282
+msgid "Select text alignment."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1295
+msgid "Content you would like to place inside the banner"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1305
+msgid "Gap"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1313
+msgid "Gap Height"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1316
+msgid "Enter height of the gap in px."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1322
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1330
+msgid "Graphic values"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1332
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|Development"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1337
+msgid "Bar color"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1350
+msgid "Select bar background color."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1357 inc/visualcomposer-extend.php:1365
+msgid "Testimonials"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1368
+msgid ""
+"Enter testimonials here. Divide values with linebreaks (Enter). Example: Abraham Lincoln|"
+"Lorem ipsum ...."
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1376
+msgid "Team Member"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1385
+msgid "Select Team Member Image"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1387
+msgid "Minimum size is 270x270 pixels"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1391 woocommerce/single-product-reviews.php:32
+msgid "Name"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1394
+msgid "Enter name of the team member"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1398
+msgid "Position"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1400
+msgid "Enter position/title of the team member"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1404
+msgid "Facebook"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1406
+msgid "Enter Facebook Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1410
+msgid "Twitter"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1412
+msgid "Enter Twitter Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1416
+msgid "Google Plus"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1418
+msgid "Enter Google Plus Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1422
+msgid "Linkedin"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1424
+msgid "Enter Linkedin Link"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1431
+msgid "Clients"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1440
+msgid "Select Images"
+msgstr ""
+
+#: inc/visualcomposer-extend.php:1442
+msgid "Add as many client images as possible."
+msgstr ""
+
+#: inc/widgets/latest-posts-images.php:14
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/woocommerce.php:57 woocommerce/cart/cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: inc/woocommerce.php:70
+msgid "subtotal"
+msgstr ""
+
+#: inc/woocommerce.php:73
+msgid "View Shopping Bag"
+msgstr ""
+
+#: inc/woocommerce.php:77
+msgid "You have no products in your shopping bag."
+msgstr ""
+
+#: inc/woocommerce.php:163
+msgid "Category Header"
+msgstr ""
+
+#: inc/woocommerce.php:180
+msgid ""
+"This content will be displayed at the top of this category. You can use your shortcodes "
+"here. <small>You can create your content using visual composer and then copy its text "
+"here</small>"
+msgstr ""
+
+#: inc/wp3menu.php:7
+msgid "Navigation Bar Menu"
+msgstr ""
+
+#: inc/wp3menu.php:487
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/wp3menu.php:491
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/wp3menu.php:532
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/wp3menu.php:541
+msgid "URL"
+msgstr ""
+
+#: inc/wp3menu.php:548
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/wp3menu.php:554
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/wp3menu.php:561
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/wp3menu.php:566
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/wp3menu.php:572
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/wp3menu.php:578
+msgid "Description"
+msgstr ""
+
+#: inc/wp3menu.php:580
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: inc/wp3menu.php:587
+msgid "Fuel Themes Menu Options"
+msgstr ""
+
+#: inc/wp3menu.php:589
+msgid "Menu Item Icon"
+msgstr ""
+
+#: inc/wp3menu.php:600
+msgid "Menu Item Anchor"
+msgstr ""
+
+#: inc/wp3menu.php:605
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/wp3menu.php:614
+msgid "Enable"
+msgstr ""
+
+#: inc/wp3menu.php:618
+msgid "Menu Background"
+msgstr ""
+
+#: inc/wp3menu.php:628
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/wp3menu.php:641
+msgid "Remove"
+msgstr ""
+
+#: inc/wp3menu.php:642 woocommerce/myaccount/my-orders.php:92
+#: woocommerce/wishlist-view.php:37
+msgid "Cancel"
+msgstr ""
+
+#: search.php:27
+msgid "No Results found"
+msgstr ""
+
+#: template-breadcrumbs.php:39
+msgid "Home"
+msgstr ""
+
+#: vc_templates/thb_product_list.php:115
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:21
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/mini-cart.php:79
+#: woocommerce/checkout/review-order.php:53
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart.php:108
+#: woocommerce/checkout/review-order.php:22 woocommerce/checkout/review-order.php:100
+#: woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:24 woocommerce/cart/cart.php:67
+#: woocommerce/checkout/form-pay.php:30 woocommerce/checkout/review-order.php:21
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:25 woocommerce/cart/cart.php:85
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26 woocommerce/cart/cart.php:91
+#: woocommerce/single-product/add-to-cart/simple.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "SubTotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Enter Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:48 woocommerce/cart/shipping-calculator.php:54
+#: woocommerce/cart/shipping-calculator.php:66
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:55
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:75
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:88
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15 woocommerce/checkout/form-checkout.php:24
+#: woocommerce/checkout/thankyou.php:18
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19 woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32 woocommerce/order/order-details-customer.php:58
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:35 woocommerce/checkout/form-checkout.php:88
+#: woocommerce/checkout/form-shipping.php:67
+msgid "Continue &raquo;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:14
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:23 woocommerce/checkout/thankyou.php:17
+msgid "Checkout Method"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:25 woocommerce/checkout/thankyou.php:19
+msgid "Your Order &amp; Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26 woocommerce/checkout/thankyou.php:20
+msgid "Confirmation"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:41
+msgid "Returning customers"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:42
+msgid "If you have shopped with us before, please enter your details in the boxes below."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid " "
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "New customers"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid ""
+"You can checkout without creating an account. You will have a chance to create an account "
+"later."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Checkout as Guest"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:58 woocommerce/checkout/form-checkout.php:63
+msgid "Create Account"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:69 woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:76
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:81
+#: woocommerce/checkout/form-login-checkout.php:16 woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:72
+msgid "Password"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:86 woocommerce/myaccount/form-login.php:76
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/checkout/form-login-checkout.php:11 woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/checkout/form-login-checkout.php:22 woocommerce/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/checkout/form-login-checkout.php:29 woocommerce/myaccount/form-login.php:51
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes below. If you "
+"are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:31
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:32
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:63 woocommerce/checkout/payment.php:30
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:72
+msgid ""
+"Sorry, it seems that there are no available payment methods for your location. Please "
+"contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:27 woocommerce/myaccount/my-address.php:28
+#: woocommerce/order/order-details-customer.php:69
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:38
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. Please "
+"contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:38
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:47
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please ensure you "
+"click the <em>Update Totals</em> button before placing your order. You may be charged "
+"more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:16
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:16
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant has "
+"declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46 woocommerce/checkout/thankyou.php:80
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-product-lookbook.php:52
+msgid "Shop The Look"
+msgstr ""
+
+#: woocommerce/content-product-small.php:44 woocommerce/content-product.php:48
+#: woocommerce/content-single-product-lightbox.php:13
+#: woocommerce/single-product/product-image.php:25 woocommerce/wishlist-view.php:140
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/content-product-small.php:46 woocommerce/content-product.php:50
+#: woocommerce/content-single-product-lightbox.php:15
+#: woocommerce/single-product/product-image.php:27
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:26
+msgid "Added to Cart"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:19
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:20
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:26
+msgid "Showing the single product"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#, php-format
+msgid "Showing all <strong>%d</strong> products"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:49
+msgid "Products Per Page"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:50
+msgid "ALL"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Registered Customers"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64 woocommerce/myaccount/form-login.php:81
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:69 woocommerce/single-product-reviews.php:34
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will receive a link "
+"to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:66
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:72
+#, php-format
+msgid "Edit %s address"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "My Orders"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:35
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:42
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:61
+#: woocommerce/order/order-details-customer.php:72
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+msgid "close"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:46
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:20
+msgid "Product Code:"
+msgstr ""
+
+#: woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/share.php:18
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/title.php:16
+msgid "BACK TO "
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:41
+msgid "Up-Sells"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:24
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:33
+msgid "Save"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:53
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:59
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:67
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:100
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:129
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:143
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:170
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:196
+msgid "Ask an estimate of costs"
+msgstr ""
+
+#: woocommerce/wishlist.php:24
+msgid "Back to My Account"
+msgstr ""

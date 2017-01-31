@@ -1,0 +1,65 @@
+/* Revolution Slider */
+.tparrows  {
+	top:  50% !important;
+
+	&:before {
+		display: none;
+	}
+}
+.hesperiden.tparrows {
+	background-color: transparent !important;
+	background-image: url('../img/slider.png') !important;
+	background-size: 71px 135px !important;
+	width: 35px !important;
+	height: 67px !important;
+	
+	&:before {
+		display: none !important;	
+	}
+	&.tp-leftarrow {
+		background-position: top left !important;
+
+		&:hover {
+			background-position: top right !important;
+		}
+	}
+	&.tp-rightarrow {
+		background-position: bottom right !important;
+
+		&:hover {
+			background-position: bottom left !important;
+		}
+	}
+	@media only screen and (max-width: $break-small) {
+		display: none !important;
+	}
+}
+.hesperiden.tp-bullets {
+	.tp-bullet {
+		width: 12px !important;
+		height: 12px !important;
+		background: none !important;
+		border: 2px solid rgba(255,255,255,0.6) !important;
+		border-radius: 50%;
+		&:hover {
+			border-color: rgba(255,255,255,1) !important;
+		}
+		&.selected {
+			border-color: rgba(255,255,255,1) !important;
+			&:after {
+				content: '';
+				display: block;
+				width: 8px;
+				height: 8px;
+				background: #fff;
+				position: absolute;
+				top: 2px;
+				left: 2px;
+				@include border-radius(4px);
+			}
+		}
+	}
+	.tp-arrows {
+		display: none !important;
+	}
+}

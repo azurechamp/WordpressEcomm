@@ -1,0 +1,185 @@
+#comments {
+	float: left;
+	width: 100%;
+	
+	#add_review_button,
+	#submit {
+		width: 100%;
+	}
+	#add_review_button {
+		margin-bottom: 20px;
+	}
+	.headline {
+		height: 30px;
+		text-align: left;
+		margin-bottom: 10px;
+		h2 {
+			padding: 0;
+		}
+		a {
+			text-transform: uppercase;
+			float: right;
+			margin-top: 2px;
+			font-size: 12px;
+		}
+	}
+	#reply-title {
+		font-size: 20px;
+		color: $color1;
+		font-weight: 700;
+		margin: 0 0 30px;
+		font-family: "Lato", sans-serif;
+	}
+	.comment-notes {
+		margin-bottom: 20px;
+	}
+	
+	ol.commentlist {
+		list-style: none;
+		margin: 0 0 10px;
+		display: block;
+		
+		.comment {
+			width: 100%;
+			margin-bottom: 20px;
+			padding-left: 70px;
+			
+			#respond {
+				width: 100%;
+				margin-top: 20px;	
+			}
+		}
+		
+		.vcard {
+			border: 0;
+			margin: 0;
+			padding: 0;
+			display: block;
+	    color: #222;
+	    font-weight: 900;
+	    line-height: 1;
+	    font-size: 13px;
+	    margin-bottom: 15px;
+			
+			.fn {
+				font-style: normal;
+				a {
+					color: #222;
+				}
+			}
+			.says {
+				display: none;
+			}
+		}
+		.avatar {
+			width: 60px;
+			position: absolute;
+			top: 0;
+			left: -70px;
+		}
+		.comment-meta {
+			line-height: 1;
+			color: #a1a1a1;
+			position: absolute;
+			bottom: 20px;
+			right: 20px;
+			font-size: 12px;
+			a {
+				color: #a1a1a1;
+			}
+		}
+		.awaiting_moderation {
+			display: block;
+			position: absolute;
+			bottom: 0;
+			right: 0;
+			color: #fff;
+			font-weight: bold;
+			text-transform: uppercase;
+			font-size: 8px;
+			padding: 2px 4px;
+			font-style: normal;
+		}
+		.comment-reply-link {
+			background: #fff;
+			display: inline-block;
+			border: 1px solid #dcdcdc;
+			color: $color1;
+			font-size: 12px;
+			padding: 6px 7px 5px;
+			margin: 0;
+			line-height: 1;
+			text-transform: uppercase;
+			i {
+				margin-right: 5px;
+			}
+		}
+		.comment-body,
+		.comment_container {
+			width: auto;
+			border: 1px dotted #bababa;
+			padding: 20px;
+			color: #606060;
+			position: relative;
+			.star-rating {
+				float: right;
+			}
+		}
+		.children{
+			display: block;
+			width: 100%;
+			margin: 20px 0 0;
+			list-style: none;
+			position: relative;
+			
+			.comment {
+				padding-left: 60px;
+			}
+			.vcard {
+				.avatar {
+					width: 50px;
+					left: -60px;
+				}
+			}
+		}
+	}
+}
+
+#reviews {
+	#add_review {
+		display: none;
+		position: relative;
+		
+		.close {
+			position: absolute;
+			top: 0;
+			right: 0;
+			text-transform: uppercase;
+			color: #737373;
+			text-decoration: underline;
+			font-size: 11px;
+			z-index: 10;
+		}
+	}
+	.comment-reply-title {
+		display: none;
+	}
+	.commentlist {
+		.meta {
+			display: block;
+			line-height: 1;
+			margin-bottom: 15px;
+			strong {
+				color: #222;
+				font-weight: 900;
+				line-height: 1;
+				font-size: 13px;
+			}
+			time {
+				line-height: 1;
+				color: #a1a1a1;
+				font-size: 12px;
+			}
+		}
+	}
+}
